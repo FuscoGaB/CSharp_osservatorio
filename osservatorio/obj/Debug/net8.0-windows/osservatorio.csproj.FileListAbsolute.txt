@@ -1,0 +1,16 @@
+C:\Users\diana\OneDrive\Desktop\osservatorio\bin\Debug\net8.0-windows\osservatorio.exe
+C:\Users\diana\OneDrive\Desktop\osservatorio\bin\Debug\net8.0-windows\osservatorio.deps.json
+C:\Users\diana\OneDrive\Desktop\osservatorio\bin\Debug\net8.0-windows\osservatorio.runtimeconfig.json
+C:\Users\diana\OneDrive\Desktop\osservatorio\bin\Debug\net8.0-windows\osservatorio.dll
+C:\Users\diana\OneDrive\Desktop\osservatorio\bin\Debug\net8.0-windows\osservatorio.pdb
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.Form1.resources
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.csproj.GenerateResource.cache
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.dll
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\refint\osservatorio.dll
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.pdb
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\osservatorio.genruntimeconfig.cache
+C:\Users\diana\OneDrive\Desktop\osservatorio\obj\Debug\net8.0-windows\ref\osservatorio.dll
